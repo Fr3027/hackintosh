@@ -1,4 +1,5 @@
 # hackintosh
+
 成功驱动：
   1丶耳机并且无杂音
   2丶内置及USB健盘
@@ -20,6 +21,11 @@
   显卡：GT920MX
   声卡：
   网卡：
+  
+BIOS设置：
+  load optimal
+  disable secure boot 
+  disable vt-d
 
 已知问题：
   RealtekRTL8100.kext存在于/S/L/E中，虽然CLOVER中加入了RealtekRTL8111.kext， 但删除原驱动则重启后无法上网。
