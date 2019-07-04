@@ -1,5 +1,11 @@
 # 10.14.5
 
+版本特性：、
+   # CLOVER和各个驱动必须更新到最新！
+   MOJAVE移除了很多layout-id ,依旧可用的见下图：
+   ![image](https://github.com/Fr3027/hackintosh/raw/master/imgs/layouts.png)
+   另外可以在APPLEALC GITHUB上查看支持列表还有对应的layout-id , 两张图对着看，测试找出适合自己的layout-id
+      
 成功驱动：
   1丶耳机并且无杂音
   2丶内置及USB健盘
