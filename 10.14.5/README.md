@@ -5,7 +5,7 @@
    MOJAVE移除了很多layout-id ,依旧可用的见下图：
    ![image](https://github.com/Fr3027/hackintosh/raw/master/imgs/layouts.png)
    另外可以在APPLEALC GITHUB上查看支持列表还有对应的layout-id , 两张图对着看，测试找出适合自己的layout-id
-      
+   MAC中查看ALC型号方法见我的onenote笔记！
 成功驱动：
   1丶耳机并且无杂音
   2丶内置及USB健盘
@@ -25,7 +25,7 @@
   品牌：华硕顽石F441
   CPU：i57200U
   显卡：GT920MX
-  声卡：ALC255
+  声卡：ALC255（使用IORegistryExplorer查看）
   网卡：
   
 config.plist:
