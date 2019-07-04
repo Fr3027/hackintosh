@@ -29,8 +29,10 @@
   网卡：
   
 config.plist:
+  基于Rehabman的 config_HD615_620_630_640_650.plist
   layout-id=15
   Clover: r4972
+  
 BIOS设置：
   load optimal
   disable secure boot 
