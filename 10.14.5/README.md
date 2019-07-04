@@ -1,6 +1,6 @@
 # 10.14.5
 
-版本特性：、
+版本特性：
    # CLOVER和各个驱动必须更新到最新！
    MOJAVE移除了很多layout-id ,依旧可用的见下图：
    ![image](https://github.com/Fr3027/hackintosh/raw/master/imgs/layouts.png)
