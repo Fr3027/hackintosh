@@ -30,7 +30,8 @@
   
 config.plist:
   基于Rehabman的 config_HD615_620_630_640_650.plist
-  layout-id=15
+  layout-id=15(耳机正常)
+  layout-id=21(内置播放器正常)
   Clover: r4972
   
 BIOS设置：
